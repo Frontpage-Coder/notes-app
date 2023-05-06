@@ -4,7 +4,7 @@ function Header() {
     return (
         <div className="header">
             <header>
-                <h1>N-Notes</h1>
+                <h1>Study Notes Portal</h1>
             </header>
         </div>
     );
